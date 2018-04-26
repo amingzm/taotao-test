@@ -1,0 +1,7 @@
+1512271057549	Move 'web.xml' to 'WEB-INF'
+1512271058960	Move 'log4j.properties' to 'WEB-INF'
+1512283081866	Move 4 resources to 'WEB-INF'
+1512283692769	Move 'images' to 'webapp'
+1512283734192	Move 'images' to 'WEB-INF'
+1512699915606	Copy package
+1512699924163	Copy package

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sun Sep 17 22:14:38 CST 2017
+@default-java.net-http\uFF1A//download.java.net/maven/2/.lastUpdated=1505657677788
+http\uFF1A//download.java.net/maven/2/.error=Could not transfer artifact javax.servlet\:jstl\:pom\:1.2 from/to java.net (http\uFF1A//download.java.net/maven/2)\: Cannot access http\uFF1A//download.java.net/maven/2 with type default using the available connector factories\: AetherRepositoryConnectorFactory, BasicRepositoryConnectorFactory
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1505657678101

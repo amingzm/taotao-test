@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Apr 25 16:09:38 CST 2018
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\ming\\.m2\\repository\\org\\springframework\\spring-web\\4.1.3.RELEASE\\spring-web-4.1.3.RELEASE.jar=D\:\\apache\\apache-tomcat-7.0.73\\wtpwebapps\\miao-sha\\WEB-INF\\lib\\spring-web-4.1.3.RELEASE.jar
+org.eclipse.jst.jee.server\:miao-sha=D\:\\apache\\apache-tomcat-7.0.73\\wtpwebapps\\miao-sha

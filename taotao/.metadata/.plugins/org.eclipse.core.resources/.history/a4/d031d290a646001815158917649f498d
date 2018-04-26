@@ -1,0 +1,29 @@
+package service;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SeckillServiceImplTest {
+
+	@Test
+	public void testGetSeckillList() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testGetById() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testExportSeckillUrl() {
+		fail("Not yet implemented");
+	}
+
+	@Test
+	public void testExecuteSeckill() {
+		fail("Not yet implemented");
+	}
+
+}
